@@ -1,0 +1,9 @@
+# Документация
+https://pyneng.readthedocs.io/ru/latest/book/Part_I.html
+
+
+# Обработка ошибок
+https://docs.python.org/3/library/exceptions.html
+
+# Сайт для тестирования регулярных выражений
+regex101.com
